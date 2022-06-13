@@ -23,6 +23,14 @@ Go to the project directory and run the below code to start the front end of the
   cd login-system
   npm start
 ```
+
+If you get an react-script error run the below code and it will work.
+
+```bash
+  npm install react-scripts --save
+  npm start
+```
+
 For the backend of the project run the below code.
 ```bash
   cd login-server
