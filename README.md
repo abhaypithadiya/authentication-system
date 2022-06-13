@@ -37,13 +37,17 @@ For the backend of the project run the below code.
   node index.js
 ```
 
-
-
 ## Overview
 
 - Enter Your Phone Number.
 - You will recieve an One Time Password (OTP) on the given Number.
 - Enter the 6 Digit OTP recieved on your Phone.
 - If the OTP is correct Only then the data will be saved in the Database.
+
+## Tech Stack
+
+**Client:** React
+
+**Server:** Node, Express
 
 
