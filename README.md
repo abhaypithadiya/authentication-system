@@ -14,7 +14,7 @@ An Login System Authenticated via Google Firebase in MERN Stack.
 Clone the project
 
 ```bash
-  git clone [https://link-to-project](https://github.com/abhaypithadiya/authentication-system)
+  git clone https://github.com/abhaypithadiya/authentication-system
 ```
 
 Go to the project directory and run the below code to start the front end of the project.
